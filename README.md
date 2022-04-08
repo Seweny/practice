@@ -1,2 +1,2 @@
 # Practice Repository
-A repository for practising git fundamentals
+A new repository for practising git fundamentals
